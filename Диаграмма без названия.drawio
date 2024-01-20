@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T06:43:52.811Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ey6i8SPkE3yRiET2X9Ao" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T06:46:45.617Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lqFGCtK2EB3n8gHN7KHN" version="22.1.21" type="github">
   <diagram name="Страница — 1" id="nTOJG4U7TyEazY0ghbzv">
-    <mxGraphModel dx="2369" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2769" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,6 +271,9 @@
         </mxCell>
         <mxCell id="ied_S7TfPLxYeV3mwsQc-65" value="потенциальный работник" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-151" y="597" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ied_S7TfPLxYeV3mwsQc-69" value="Бизнес-процессы&amp;nbsp;&lt;br/&gt;ООО “&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;, &amp;quot;serif&amp;quot;;&quot; lang=&quot;EN-US&quot;&gt;Biboran&lt;/span&gt;&lt;span style=&quot;font-size: 14pt; font-family: &amp;quot;Times New Roman&amp;quot;, &amp;quot;serif&amp;quot;;&quot;&gt;” 2023.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-431" y="-117" width="286" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
